@@ -1,4 +1,6 @@
 # SecretStash
+[![GoDoc](https://godoc.org/github.com/gosom/secretstash?status.svg)](https://godoc.org/github.com/gosom/secretstash)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gosom/secretstash)](https://goreportcard.com/report/github.com/gosom/secretstash)
 
 SecretStash is a Go library for managing secrets. It works with AWS Secrets Manager and environment variables. You can add more secret providers too.
 
